@@ -1,0 +1,19 @@
+Tue Apr 26 17:53:27 EDT 2022 : Apache Derby Network Server - 10.15.2.0 - (1873585) started and ready to accept connections on port 1527
+----------------------------------------------------------------
+Tue Apr 26 17:53:27 EDT 2022:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.15.2.0 - (1873585): instance a816c00e-0180-67dd-71dc-ffff96d68093 
+on database directory /Users/krishshah/Documents/CourseScheduleDBstorage/Derby Databases/CourseSchedulerDBkrishkas7484 with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@42110406 
+Loaded from file:/Users/krishshah/Documents/CourseScheduleDBstorage/db-derby-10.15.2.0-bin/lib/derby.jar
+java.vendor=Oracle Corporation
+user.dir=/Users/krishshah/Documents/CourseScheduleDBstorage/db-derby-10.15.2.0-bin
+os.name=Mac OS X
+os.arch=x86_64
+os.version=12.2.1
+derby.system.home=/Users/krishshah/Documents/CourseScheduleDBstorage/Derby Databases
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Tue Apr 26 17:53:59 EDT 2022: Shutting down Derby engine
+----------------------------------------------------------------
+Tue Apr 26 17:53:59 EDT 2022:
+Shutting down instance a816c00e-0180-67dd-71dc-ffff96d68093 on database directory /Users/krishshah/Documents/CourseScheduleDBstorage/Derby Databases/CourseSchedulerDBkrishkas7484 with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@42110406 
+----------------------------------------------------------------

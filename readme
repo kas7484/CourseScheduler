@@ -1,0 +1,43 @@
+Course Scheduler Application
+
+The Course Scheduler Application is a database-driven application that allows students to schedule courses by semester. It includes a user-friendly GUI interface and is built using good Object-Oriented Design and Programming principles.
+
+Features
+
+The Course Scheduler Application includes the following features:
+
+Admin User Functions
+Add Semester: Add a new semester to the database.
+Add Course: Add a new course to the database, specifying the semester it will be offered, the course code, description, and maximum number of students.
+Add Student: Add a new student to the database, specifying the student ID, first name, and last name.
+Display Course List of Students: Display a list of all students who are scheduled or waitlisted for a specified course for the current semester.
+Drop Student: Remove a student from the list of students and remove them from any courses they are scheduled for in all semesters. Schedule the first student on the waitlist into the course.
+Drop Course: Remove a specified course from the current semester. Remove all students scheduled and waitlisted for the course from the Schedule Table.
+Student User Functions
+Schedule Course: Schedule a student for a specified course for the current semester, if there are available seats. If not, add the student to the waitlist for that course.
+Display Schedule: Display the current schedule for a specified student for the current semester.
+Display Courses: Display a complete list of courses for the current semester.
+Drop Course: Remove a specified course from the student's schedule for the current semester. Schedule the first student waiting for the course into the course.
+Testing
+
+The Course Scheduler Application includes a testing script for both Part 1 and Part 2 of the final project, which will assist in testing the application's functionality.
+
+Database
+
+The Course Scheduler Application uses a Derby database, with all tables being empty upon submission of the project.
+
+Requirements
+
+To run the Course Scheduler Application, you will need:
+
+Java SE Development Kit (JDK) 8 or above
+Derby database
+How to Run
+
+Clone or download the project from the repository.
+Install the necessary requirements.
+Open the project in your preferred Java IDE.
+Run the CourseSchedulerGUI.java file to launch the application.
+Credits
+
+The Course Scheduler Application was developed by Krish Shah.
